@@ -1,6 +1,6 @@
-# Basic JavaScript project template for Phaser Editor v4.
+# Basic JavaScript project template for Phaser Editor v4 and Box2D.
 
-This is a Phaser Editor v4 project template.
+This is a Phaser Editor v4 project template. It includes Box2D library and a scene with a simple example of a Box2D world.
 
 ## Configuration
 
